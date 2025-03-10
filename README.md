@@ -10,7 +10,7 @@
 
 ###
 
-<p align="center">I'm a passionate MERN Stack Developer with 4+ years of experience in designing and building scalable, high-performance web applications. I specialize in MongoDB, Express.js, React.js, and Node.js, crafting seamless user experiences and efficient backend solutions.</p>
+<p align="center">I'm a passionate MERN Stack Developer with 3 years of experience in designing and building scalable, high-performance web applications. I specialize in MongoDB, Express.js, React.js, and Node.js, crafting seamless user experiences and efficient backend solutions.</p>
 
 ###
 
