@@ -1,4 +1,4 @@
-<p align="left">👋 Hi! I'm Zaghum Abbas</p>
+<p align="center">👋 Hi! I'm Zaghum Abbas</p>
 
 ###
 
@@ -14,7 +14,11 @@
 
 ###
 
-<div align="left">
+<p align="center">🔨🔍: Languages and Tools :</p>
+
+###
+
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
@@ -37,9 +41,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
 </div>
-
-###
-
-<p align="center">🔨🔍: Languages and Tools :</p>
 
 ###
