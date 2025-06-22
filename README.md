@@ -1,4 +1,12 @@
 <p align="center">👋 Hi! I'm Zaghum Abbas</p>
+<div id="header" align="center">
+
+  <div>
+  <a href="https://www.linkedin.com/in/zaghumabbas/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+<img src="https://img.shields.io/badge/-4%2B%20Years%20Experience-%23007BFF?style=for-the-badge&logo=medal&logoColor=white" />
+</div>
 
 ###
 
@@ -10,7 +18,7 @@
 
 ###
 
-<p align="center">I'm a passionate MERN Stack Developer with 3 years of experience in designing and building scalable, high-performance web applications. I specialize in MongoDB, Express.js, React.js, and Node.js, crafting seamless user experiences and efficient backend solutions.</p>
+<p align="center">I'm a passionate MERN Stack Developer with 4+ years of experience in designing and building scalable, high-performance web applications. I specialize in MongoDB, Express.js, React.js, and Node.js, crafting seamless user experiences and efficient backend solutions.</p>
 
 ###
 
